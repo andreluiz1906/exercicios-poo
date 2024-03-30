@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\classesabstratas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\classesabstratas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\interfaces\\imovimentacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\interfaces\\imovimentacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\validadores\\validadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\validadores\\validadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\validadores\\validadorcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\validadores\\validadorcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidadorCPF.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:00:52.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovimentacaoConta.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:24:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:24:34.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:23:06.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidadorCliente.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:19:47.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:14:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
+              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:14:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowHsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:34:39.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

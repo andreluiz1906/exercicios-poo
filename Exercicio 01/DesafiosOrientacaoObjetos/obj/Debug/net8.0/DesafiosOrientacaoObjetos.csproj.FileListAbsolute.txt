@@ -1,0 +1,15 @@
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\bin\Debug\net8.0\DesafiosOrientacaoObjetos.exe
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\bin\Debug\net8.0\DesafiosOrientacaoObjetos.deps.json
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\bin\Debug\net8.0\DesafiosOrientacaoObjetos.runtimeconfig.json
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\bin\Debug\net8.0\DesafiosOrientacaoObjetos.dll
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\bin\Debug\net8.0\DesafiosOrientacaoObjetos.pdb
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.AssemblyInfoInputs.cache
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.AssemblyInfo.cs
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.csproj.CoreCompileInputs.cache
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.sourcelink.json
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.dll
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\refint\DesafiosOrientacaoObjetos.dll
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.pdb
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\DesafiosOrientacaoObjetos.genruntimeconfig.cache
+D:\Software\exercicios-poo\Exercicio 01\DesafiosOrientacaoObjetos\obj\Debug\net8.0\ref\DesafiosOrientacaoObjetos.dll
