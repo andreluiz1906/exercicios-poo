@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA25E6F4-AADC-4F5F-8483-71F11AA4F180}|..\\..\\Exercicio 04\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj|d:\\software\\exercicios-poo\\exercicio 04\\tratamentodeexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\classesabstratas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\classesabstratas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EEF0958-D1DB-4FC0-9B48-B8CCDC16E895}|..\\..\\Exercicio 03\\PlanejamentoEleitoral\\PlanejamentoEleitoral.csproj|d:\\software\\exercicios-poo\\exercicio 03\\planejamentoeleitoral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\interfaces\\imovimentacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\interfaces\\imovimentacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA25E6F4-AADC-4F5F-8483-71F11AA4F180}|..\\..\\Exercicio 04\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj|d:\\software\\exercicios-poo\\exercicio 04\\tratamentodeexcecoes\\modelos\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\validadores\\validadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\validadores\\validadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|d:\\software\\exercicios-poo\\exercicio 01\\desafiosorientacaoobjetos\\interfacevsclasseabstrata\\modelos\\validadores\\validadorcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375926AB-9F2A-48AD-BB18-0C56FB8586C5}|DesafiosOrientacaoObjetos.csproj|solutionrelative:interfacevsclasseabstrata\\modelos\\validadores\\validadorcpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA25E6F4-AADC-4F5F-8483-71F11AA4F180}|..\\..\\Exercicio 04\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj|d:\\software\\exercicios-poo\\exercicio 04\\tratamentodeexcecoes\\modelos\\divisaoporzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,106 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ValidadorCPF.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCPF.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T00:00:52.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMovimentacaoConta.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Interfaces\\IMovimentacaoConta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:24:35.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\Cliente.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywBkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:24:34.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContaCorrente.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\ContaCorrente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:23:06.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValidadorCliente.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\Validadores\\ValidadorCliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:19:47.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\ClassesAbstratas\\Conta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAbAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 03\\PlanejamentoEleitoral\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Exercicio 03\\PlanejamentoEleitoral\\Program.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 03\\PlanejamentoEleitoral\\Program.cs",
+              "RelativeToolTip": "..\\..\\Exercicio 03\\PlanejamentoEleitoral\\Program.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAuwIwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:14:47.626Z",
+              "WhenOpened": "2024-03-31T20:42:12.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ContaPoupanca.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
-              "RelativeDocumentMoniker": "InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
-              "RelativeToolTip": "InterfaceVsClasseAbstrata\\Modelos\\ContaPoupanca.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Title": "DivisaoPorZeroException.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\DivisaoPorZeroException.cs",
+              "RelativeDocumentMoniker": "..\\..\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\DivisaoPorZeroException.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\DivisaoPorZeroException.cs",
+              "RelativeToolTip": "..\\..\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\DivisaoPorZeroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:14:06.018Z",
+              "WhenOpened": "2024-03-31T20:39:43.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoInsuficienteException.cs",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\SaldoInsuficienteException.cs",
+              "RelativeDocumentMoniker": "..\\..\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\SaldoInsuficienteException.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\SaldoInsuficienteException.cs",
+              "RelativeToolTip": "..\\..\\Exercicio 04\\TratamentoDeExcecoes\\Modelos\\SaldoInsuficienteException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:39:47.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 01\\DesafiosOrientacaoObjetos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowHsAAAAZAAAA",
+              "DocumentMoniker": "D:\\Software\\exercicios-poo\\Exercicio 04\\TratamentoDeExcecoes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Exercicio 04\\TratamentoDeExcecoes\\Program.cs",
+              "ToolTip": "D:\\Software\\exercicios-poo\\Exercicio 04\\TratamentoDeExcecoes\\Program.cs",
+              "RelativeToolTip": "..\\..\\Exercicio 04\\TratamentoDeExcecoes\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T22:34:39.156Z",
+              "WhenOpened": "2024-03-31T20:31:04.267Z",
               "EditorCaption": ""
             }
           ]

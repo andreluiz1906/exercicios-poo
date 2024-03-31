@@ -1,0 +1,15 @@
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\bin\Debug\net8.0\PlanejamentoEleitoral.exe
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\bin\Debug\net8.0\PlanejamentoEleitoral.deps.json
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\bin\Debug\net8.0\PlanejamentoEleitoral.runtimeconfig.json
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\bin\Debug\net8.0\PlanejamentoEleitoral.dll
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\bin\Debug\net8.0\PlanejamentoEleitoral.pdb
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.AssemblyInfoInputs.cache
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.AssemblyInfo.cs
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.csproj.CoreCompileInputs.cache
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.sourcelink.json
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.dll
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\refint\PlanejamentoEleitoral.dll
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.pdb
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\PlanejamentoEleitoral.genruntimeconfig.cache
+D:\Software\exercicios-poo\Exercicio 03\PlanejamentoEleitoral\obj\Debug\net8.0\ref\PlanejamentoEleitoral.dll

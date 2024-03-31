@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafiosOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50375872315a565294e358fdfbe426b369632448")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a55ac71908dadf7c7e948aed7e2986db48a949")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafiosOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafiosOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

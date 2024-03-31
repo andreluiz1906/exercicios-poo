@@ -1,0 +1,15 @@
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.exe
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.deps.json
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.runtimeconfig.json
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.dll
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.pdb
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.AssemblyInfoInputs.cache
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.AssemblyInfo.cs
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.sourcelink.json
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.dll
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\refint\TratamentoDeExcecoes.dll
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.pdb
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.genruntimeconfig.cache
+D:\Software\exercicios-poo\Exercicio 04\TratamentoDeExcecoes\obj\Debug\net8.0\ref\TratamentoDeExcecoes.dll

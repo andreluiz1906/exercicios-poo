@@ -1,0 +1,15 @@
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\bin\Debug\net8.0\CalculoFormulaMagica.exe
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\bin\Debug\net8.0\CalculoFormulaMagica.deps.json
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\bin\Debug\net8.0\CalculoFormulaMagica.runtimeconfig.json
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\bin\Debug\net8.0\CalculoFormulaMagica.dll
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\bin\Debug\net8.0\CalculoFormulaMagica.pdb
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.AssemblyInfoInputs.cache
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.AssemblyInfo.cs
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.csproj.CoreCompileInputs.cache
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.sourcelink.json
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.dll
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\refint\CalculoFormulaMagica.dll
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.pdb
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\CalculoFormulaMagica.genruntimeconfig.cache
+D:\Software\exercicios-poo\Exercicio 02\FormulaMagica\CalculoFormulaMagica\obj\Debug\net8.0\ref\CalculoFormulaMagica.dll

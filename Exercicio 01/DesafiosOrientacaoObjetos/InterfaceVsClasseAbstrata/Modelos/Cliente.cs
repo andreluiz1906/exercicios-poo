@@ -18,11 +18,6 @@ public class Cliente
         _validadorCliente = validadorCliente;
     }
 
-    public bool ValidarCPF()
-    {
-        return _validadorCPF.Validar(CPF);
-    }
-
     public bool ValidarCliente()
     {
         return _validadorCliente.Validar(this);
